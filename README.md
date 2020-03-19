@@ -4,4 +4,4 @@ As the world is gearing towards model driven approach for most decision making, 
 
 This repository is an effort to explain use of LIME in explaining a simple logistic alrogithm based text classification model. 
 
-Data is taken from Jigsaw Toxic Comment Classification challenge of Kaggle and can be download from [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
+Data is taken from Jigsaw Toxic Comment Classification challenge of Kaggle and can be download from [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). This problem was a multi-label problem but I changed it to binary classification problem for ease of explaination of generated results. 
