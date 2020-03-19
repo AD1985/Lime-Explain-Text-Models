@@ -4,4 +4,4 @@ As the world is gearing towards model driven approach for most decision making, 
 
 Most NLP models operate over high number of dimensions and so interpretability becomes even more important in such cases. 
 
-This repository is an effort to explain use of LIME in explaiing a simple logistic alrogithm based text classification model. 
+This repository is an effort to explain use of LIME in explaining a simple logistic alrogithm based text classification model. 
