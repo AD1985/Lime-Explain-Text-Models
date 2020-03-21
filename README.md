@@ -6,4 +6,4 @@ This repository is an effort to explain use of LIME in explaining a simple logis
 
 Data is taken from Jigsaw Toxic Comment Classification challenge of Kaggle and can be download from [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). This problem was a multi-label problem but I changed it to binary classification problem for ease of explaination of generated results. 
 
-https://nbviewer.jupyter.org/github/AD1985/Lime-Explain-Text-Models/blob/bea859622add13e893d9ca2bd6e2c515bbd3eb0b/Text%20Modelling%20Analyzer.ipynb
+https://nbviewer.jupyter.org/github/AD1985/Lime-Explain-Text-Models/blob/e37391286962ddeb5d5ce390a1c402665f53df27/Text%20Modelling%20Analyzer.ipynb
