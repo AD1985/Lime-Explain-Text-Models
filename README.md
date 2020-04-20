@@ -9,4 +9,4 @@ Data is taken from Jigsaw Toxic Comment Classification challenge of Kaggle and c
 [Notebook](https://nbviewer.jupyter.org/github/AD1985/Lime-Explain-Text-Models/blob/master/Text%20Modelling%20Analyzer.ipynb)
 
 **Explaination Chart**
-![]('./Lime-Explaination.PNG')
+![](./Lime-Explaination.PNG)
